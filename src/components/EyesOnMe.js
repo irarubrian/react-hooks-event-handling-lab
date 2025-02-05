@@ -1,4 +1,4 @@
-// Code EyesOnMe Component Here
+// Code EyesOnMe Component here
 import React from 'react';
 
 function EyesOnMe() {
